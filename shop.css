@@ -45,7 +45,7 @@
     display: flex;
     justify-content: end;
 }
-/* .cat-content {
+.cat-content {
     display: none;
     position: absolute;
     background-color: #0a0909;
@@ -68,10 +68,9 @@
     background-color: #f7f1f1;
     color: #0a0909;
 }
- */
-/* .page:hover .cat-content {
+ .page:hover .cat-content {
     display: block;
-} */
+}
 
 /* ----------- Menu ----------- */
 
